@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "res-persist-test": "git@github.com:SpainTrain/res-persist-test.git#*"
+    "res-persist-test": "git@github.com:SpainTrain/res-persist-test.git#*",
+    "res-persist-edgecase": "git@github.com:mike-spainhower/res-persist-edgecase.git#*"
   }
 }
